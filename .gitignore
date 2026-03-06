@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.lite/
+.deps/
+.pydeps/
+.omx/
+量化交易2026春-第1次作业数据.zip
+hw1/量化交易2026春-第1次作业数据.zip
