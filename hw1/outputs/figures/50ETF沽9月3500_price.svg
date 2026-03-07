@@ -1,5 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="360">
 <rect width="100%" height="100%" fill="white"/>
-<text x="30" y="20" font-size="16">50ETF沽9月3500 价格</text>
-<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="30.0,250.1 65.0,92.0 100.0,34.7 135.0,154.0 170.0,240.4 205.0,206.9 240.0,207.9 275.0,80.4 310.0,289.3 345.0,330.0 380.0,274.9 415.0,217.0 450.0,277.4 485.0,186.6 520.0,170.3 555.0,177.2 590.0,107.7 625.0,30.0 660.0,177.2 695.0,190.3 730.0,91.1 765.0,95.8 800.0,179.4 835.0,110.8 870.0,52.2"/>
+<text x="45" y="20" font-size="16">50ETF沽9月3500 价格</text>
+<line class="axis-x" x1="45" y1="315" x2="855" y2="315" stroke="black" stroke-width="1"/>
+<line class="axis-y" x1="45" y1="45" x2="45" y2="315" stroke="black" stroke-width="1"/>
+<text x="450.0" y="355" font-size="12" text-anchor="middle">样本点</text>
+<text x="14" y="180.0" font-size="12" text-anchor="middle" transform="rotate(-90 14 180.0)">价格</text>
+<line x1="45.0" y1="315" x2="45.0" y2="320" stroke="black" stroke-width="1"/>
+<text x="45.0" y="333" font-size="10" text-anchor="middle">1</text>
+<line x1="450.0" y1="315" x2="450.0" y2="320" stroke="black" stroke-width="1"/>
+<text x="450.0" y="333" font-size="10" text-anchor="middle">13</text>
+<line x1="855.0" y1="315" x2="855.0" y2="320" stroke="black" stroke-width="1"/>
+<text x="855.0" y="333" font-size="10" text-anchor="middle">25</text>
+<line x1="40" y1="315.0" x2="45" y2="315.0" stroke="black" stroke-width="1"/>
+<text x="37" y="318.0" font-size="10" text-anchor="end">0.65</text>
+<line x1="40" y1="302.1" x2="45" y2="302.1" stroke="black" stroke-width="1"/>
+<text x="37" y="305.1" font-size="10" text-anchor="end">0.70</text>
+<line x1="40" y1="45.0" x2="45" y2="45.0" stroke="black" stroke-width="1"/>
+<text x="37" y="48.0" font-size="10" text-anchor="end">0.74</text>
+<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="45.0,243.1 78.8,100.8 112.5,49.2 146.2,156.6 180.0,234.4 213.8,204.2 247.5,205.1 281.2,90.4 315.0,278.4 348.8,315.0 382.5,265.4 416.2,213.3 450.0,267.7 483.8,185.9 517.5,171.3 551.2,177.5 585.0,114.9 618.8,45.0 652.5,177.5 686.2,189.3 720.0,100.0 753.8,104.2 787.5,179.4 821.2,117.7 855.0,65.0"/>
 </svg>

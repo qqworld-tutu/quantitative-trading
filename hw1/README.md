@@ -1,9 +1,18 @@
 # HW1
 
-第一次作业第二部分的代码、测试和生成结果。
+这个文件夹统一存放第一次作业相关内容。
 
-## 运行
+包含：
 
-1. 将课程提供的 `量化交易2026春-第1次作业数据.zip` 放到 `hw1/` 目录。
-2. 安装 `openpyxl` 和 `numpy`。
-3. 运行 `PYTHONPATH=.lite:src python3 run_assignment1_part2.py` 或按你的环境调整依赖路径。
+- `量化交易2026春作业_20260303.docx`：作业说明
+- `量化交易2026春-第1次作业数据.zip`：第一次作业数据
+- `src/`、`tests/`、`run_assignment1_part2.py`：代码与测试
+- `outputs/`：生成的图表、表格和报告草稿
+- `docs/plans/`：这次实现时写的设计与实现计划
+
+运行方式：
+
+```bash
+PYTHONPATH=.lite:src python3 -m pytest tests -q
+PYTHONPATH=.lite:src python3 run_assignment1_part2.py
+```
