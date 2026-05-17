@@ -1,0 +1,7 @@
+method,family,definition,typical_use
+MA gap (20),technical_indicator,Price deviation from 20-minute moving average,trend or contrarian
+MACD hist,technical_indicator,Difference between MACD and signal line,trend or reversal near extremes
+RSI centered,technical_indicator,Recent upside movement as a share of total movement,contrarian near overbought/oversold
+KDJ J centered,technical_indicator,Current close location in recent high-low range,contrarian near range extremes
+Kalman slope,causal_filter,Slope of estimated hidden price state,trend
+HP trend,ex_post_filter,Penalized second-difference smoother,visual trend decomposition

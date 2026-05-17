@@ -1,0 +1,6 @@
+signal,family,horizon_minutes,n_obs,pearson_ic,spearman_ic,preferred_direction,usable_direction_accuracy
+KDJ J centered,technical_indicator,5,514907,-0.030944813265938804,-0.06600535636469082,contrarian,0.5897336800626132
+MA gap (20),technical_indicator,5,510886,-0.019581062902180472,-0.05891870644601901,contrarian,0.5908754594958563
+RSI centered,technical_indicator,5,473961,-0.015319739038405417,-0.048388323699423884,contrarian,0.5848603577087566
+MACD hist,technical_indicator,5,514914,-0.010350267271476721,-0.038566301182148696,contrarian,0.5816757749837838
+Kalman slope,causal_filter,5,514910,-0.005289093896781141,-0.023591550835529433,contrarian,0.5766658250956478
