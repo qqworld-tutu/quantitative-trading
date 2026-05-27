@@ -1,0 +1,12 @@
+{
+  "sample_start": "2026-04-28",
+  "sample_end": "2026-05-27",
+  "trading_days": 19,
+  "stocks": 10,
+  "equal_time_rows": 4565,
+  "equal_volume_rows": 2846,
+  "avg_time_excess_kurtosis": 10.491106796201121,
+  "avg_volume_excess_kurtosis": 1.9915031673302241,
+  "ac_minus_twap_bps_mean": 0.1390959267601846,
+  "ac_minus_vwap_bps_mean": -3.4251712862065746
+}
